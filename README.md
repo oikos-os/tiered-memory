@@ -18,9 +18,17 @@ The critical innovation: **non-competitive budget reservation.** Identity conten
 
 ## Installation
 
-1. Download or clone this folder
-2. In your Claude Project, add this folder as a skill
-3. Claude will now understand tiered memory architecture and can help you design and implement one
+oikOS Skills are platform-agnostic. Install wherever you use AI:
+
+**Claude Projects:** Upload the skill folder contents as project knowledge files.
+
+**ChatGPT Custom GPTs:** Paste the contents of SKILL.md into your GPT's instructions. Upload the references/ files as knowledge.
+
+**Gemini:** Upload SKILL.md and the references/ folder as context in your conversation or project.
+
+**Local models (Ollama, LangChain, oikOS):** Place the files in your knowledge/vault directory and index them.
+
+**Any RAG system:** Index all .md files in this folder. The system will retrieve the relevant patterns per query.
 
 ## What's Included
 

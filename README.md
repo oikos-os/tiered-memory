@@ -1,6 +1,6 @@
 # tiered-memory
 
-**A Claude Skill for organizing AI knowledge in tiered storage with differentiated persistence, budget allocation, and decay.**
+**An oikOS Skill for organizing AI knowledge in tiered storage with differentiated persistence, budget allocation, and decay.**
 
 Part of the [oikOS Sovereign Kernel](https://oikos-os.com) — The OS for your AI.
 

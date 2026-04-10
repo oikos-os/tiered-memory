@@ -109,7 +109,7 @@ Every file in the vault should have YAML frontmatter:
 ---
 tier: SEMANTIC          # IDENTITY | CORE | SEMANTIC
 domain: TECHNICAL       # TECHNICAL | PRODUCT | PROCESS | EMPIRE | PERSONAL
-project: OIKOS_OMEGA    # or your project name
+project: MY_PROJECT    # replace with your project name
 status: ACTIVE          # ACTIVE | COMPLETE | ARCHIVED
 updated: 2026-03-05     # last meaningful update
 ---

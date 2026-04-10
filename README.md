@@ -2,7 +2,7 @@
 
 **An oikOS Skill for organizing AI knowledge in tiered storage with differentiated persistence, budget allocation, and decay.**
 
-Part of the [oikOS Sovereign Kernel](https://oikos-os.com) — The OS for your AI.
+Part of the [oikOS Sovereign Kernel](https://oikos-os.com) — The home for AI agents.
 
 ## What This Does
 
@@ -86,4 +86,4 @@ The sovereign-identity skill is free on GitHub. The full Sovereign Kernel (all 6
 
 ---
 
-Built by [Pachacutie](https://github.com/Pachacutie) — building oikOS, the OS for your AI.
+Built by [Pachacutie](https://github.com/Pachacutie) — building oikOS, the home for AI agents.
